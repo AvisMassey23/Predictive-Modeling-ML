@@ -34,7 +34,7 @@ We implemented and evaluated decision tree and random forest models across three
 ## **Installation & Usage**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/predictive-modeling.git
+   git clone https://github.com/avismassey23/Predictive-Modeling-ML.git
    ```  
 2. Install dependencies:  
    ```bash
